@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48495" started-at="2019-07-19T07:53:20Z" finished-at="2019-07-19T07:54:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48495" started-at="2019-07-19T07:53:20Z" finished-at="2019-07-19T07:54:09Z">
+      <class name="com.testingfoo.mailosaur.TestingMail">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testingfoo.mailosaur.TestingMail@1e88b3c]" name="setUp" is-config="true" duration-ms="42" started-at="2019-07-19T07:53:20Z" finished-at="2019-07-19T07:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addMails()[pri:0, instance:com.testingfoo.mailosaur.TestingMail@1e88b3c]" name="addMails" is-config="true" duration-ms="43815" started-at="2019-07-19T07:53:20Z" finished-at="2019-07-19T07:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMails -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.testingfoo.mailosaur.TestingMail@1e88b3c]" name="test" duration-ms="1158" started-at="2019-07-19T07:54:04Z" finished-at="2019-07-19T07:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testingfoo.mailosaur.TestingMail@1e88b3c]" name="tearDown" is-config="true" duration-ms="3453" started-at="2019-07-19T07:54:05Z" finished-at="2019-07-19T07:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.testingfoo.mailosaur.TestingMail@1e88b3c]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-07-19T07:54:09Z" finished-at="2019-07-19T07:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.testingfoo.mailosaur.TestingMail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
